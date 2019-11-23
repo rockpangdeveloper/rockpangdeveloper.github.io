@@ -3,7 +3,7 @@ title: "Cartograph: Unlocking Thematic Cartography Through Semantic Enhancement"
 collection: research
 type: "Research"
 permalink: /research/cartograph
-date: 2019
+when: "June 2019 - Present"
 location: "Saint Paul, Minnesota"
 ---
 
