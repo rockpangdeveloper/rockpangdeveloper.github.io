@@ -261,7 +261,6 @@ defaults:
       share: false
 
   # _research
-  # _projects
   - scope:
       path: ""
       type: research
