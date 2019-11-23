@@ -7,7 +7,7 @@ venue: "by National Science Foundation, June 2019 - Present"
 location: "Saint Paul, Minnesota"
 ---
 
-[*Cartograph*](cartograph.info) is a visualization system that harnesses the vast amount of world knowledge encoded within Wikipedia to create thematic maps of almost any data. Previous version of *Cartograph* takes a long time for the user to upload their own data and to generate their own map. In the summer of 2019, I helped Prof. Shilad Sen explore new algorithms and upgrade the system.
+[*Cartograph*](https://cartograph.info) is a visualization system that harnesses the vast amount of world knowledge encoded within Wikipedia to create thematic maps of almost any data. Previous version of *Cartograph* takes a long time for the user to upload their own data and to generate their own map. In the summer of 2019, I helped Prof. Shilad Sen explore new algorithms and upgrade the system.
 
 This research project involves three parts: embedding, clustering, and labeling. We used Latent Semantic Analysis (LSA) to represent Wikipedia articles in vector forms. We captured relationship on latent space, the reduced-dimensionality vector space embeddings, using Uniform Manifold Approximation and Projection (UMAP) over the original t-Distributed Stochastic Neighbor Embedding (t-SNE). The UMAP algorithms preserves global data structure, scales well for large sample sizes, and does not consume a lot of memory compared to t-SNE.
 
