@@ -11,49 +11,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Computer Science, Applied Math & Statistics, Macalester College, expected May, 2020
+* Qingdao No. 2 High School, China, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2018 - Present: Office Assistant
+  * Office Assistant at Mathematics, Statistics, and Computer Science (MSCS) Department at Macalester
+  * Drafted the department publicity posters and fliers
+  * Organized the department guest speaker talks and coffee breaks
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2018: Web Developer
+  * US-China People's Friendship Association
+  * Developed an [information-sharing website](https://uscpfa-mn.org) for the Chinese community in the Twin Cities in
+HTML, CSS, JavaScript
+
+* Spring 2018: Prospect Research Intern
+  * Nonviolent Peaceforce
+  * Analyzed donation history from national fundraising campaigns, identified 146 potential
+major gift contributors, and communicated with 16 of them
+
+* Summer 2017: Research Intern
+  * Center for Political-Military Analysis, Hudson Institute
+  * Researched and and analyzed foreign, defense, intelligence, and counterterrorism policy issues, primarily on US-China-Russia relations.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Mandarin (Native), English (Professional working proficiency, TOEFL: 115)
+* Programming: Java, Python, JavaScript, HTML, CSS, C, C++, Ruby, SQL, R, Processing
+* Interests: Running, Martial Arts, Traveling, Debating
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
