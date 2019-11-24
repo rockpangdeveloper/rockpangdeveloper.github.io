@@ -44,10 +44,15 @@ Skills
 Honors and Awards
 ======
 	* 06/2019	Academic All-Conference in Track & Field
-	* 04/2019	Best Algorithms Design Award in the American Statistical
-		Association (ASA) DataFest Competition, a data science hackathon (One winner out of 16 teams)
-	* 05/2018	Chuck Green Civic Engagement Fellowship (25% acceptance rate, a recipient with $5,500)
-	* 11/2017	Outstanding Trial Team in MN Mock Trial Invitational Tournament (9th Place Out of 46 teams)
-	* 10/2017	Top 20 in the ACM North Central NA Regional Contest
-	* 04/2017	Best Use of External Data Award in the ASA DataFest Competition (One winner out of 13 teams)
-	* 05/2016	Kofi Annan International Scholarship (Four-year full scholarship)
+
+  * 04/2019	Best Algorithms Design Award in the American Statistical Association (ASA) DataFest Competition, a data science hackathon (One winner out of 16 teams)
+
+  * 05/2018	Chuck Green Civic Engagement Fellowship (25% acceptance rate, a recipient with $5,500)
+
+  * 11/2017	Outstanding Trial Team in MN Mock Trial Invitational Tournament (9th Place Out of 46 teams)
+
+  * 10/2017	Top 20 in the ACM North Central NA Regional Contest
+
+  * 04/2017	Best Use of External Data Award in the ASA DataFest Competition (One winner out of 13 teams)
+
+  * 05/2016	Kofi Annan International Scholarship (Four-year full scholarship)
