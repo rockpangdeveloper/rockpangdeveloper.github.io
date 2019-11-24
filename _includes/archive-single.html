@@ -16,6 +16,8 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" style="overflow: auto">
     {% if post.image %}
       <img src="{{ post.image }}" style="float: right; padding: 2px; margin: 3px" width="200" height="200" alt="{{ post.alt }}">
+    {% elsif post.video %}
+      <video controls="controls" width="200" height="200" style="float: right; padding: 2px; margin: 3px" src={{ post.video }}></video>
     {% endif %}
     <h3 class="archive__item-title" itemprop="headline">
       {% if post.link %}
