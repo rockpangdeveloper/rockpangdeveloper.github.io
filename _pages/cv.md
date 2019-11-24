@@ -43,6 +43,7 @@ Skills
 
 Honors and Awards
 ======
+
 	* 06/2019: Academic All-Conference in Track & Field
 
   * 04/2019: Best Algorithms Design Award in the American Statistical Association (ASA) DataFest Competition, a data science hackathon (One winner out of 16 teams)
