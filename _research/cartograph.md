@@ -6,6 +6,7 @@ permalink: /research/cartograph
 venue: "by National Science Foundation, June 2019 - Present"
 date: 2019-05-28
 location: "Saint Paul, Minnesota"
+link: https://cartograph.info
 ---
 
 [*Cartograph*](https://cartograph.info) is a visualization system that harnesses the vast amount of world knowledge encoded within Wikipedia to create thematic maps of almost any data. Previous version of *Cartograph* takes a long time for the user to upload their own data and to generate their own map. In the summer of 2019, I helped Prof. Shilad Sen explore new algorithms and upgrade the system.
