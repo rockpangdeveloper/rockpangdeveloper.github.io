@@ -14,12 +14,15 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" style="overflow: auto">
-    <img src="{{ post.image }}" style="float: left; padding: 2px; margin: 3px" width="200" height="200" alt="{{ post.alt }}">
+    {% if post.image %}
+      <img src="{{ post.image }}" style="float: left; padding: 2px; margin: 3px" width="200" height="200" alt="{{ post.alt }}">
+    {% endif %}
     <h3 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <i class="fa fa-link" aria-hidden="true" title="permalink"></i>
       {% else %}
         {{ title }}
+      {% endif %}
     </h3>
 
 
